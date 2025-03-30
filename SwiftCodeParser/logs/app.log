@@ -1,0 +1,24 @@
+mar 30, 2025 9:19:33 PM LoggerUtil logInfo
+INFO: Table 'swift_codes' already exists.
+mar 30, 2025 9:19:33 PM LoggerUtil logInfo
+INFO: Index idx_swift_code already exists.
+mar 30, 2025 9:19:33 PM LoggerUtil logInfo
+INFO: Index idx_iso2_code already exists.
+mar 30, 2025 9:19:33 PM LoggerUtil logInfo
+INFO: Data successfully inserted into the database.
+mar 30, 2025 9:28:10 PM LoggerUtil logInfo
+INFO: Table 'swift_codes' already exists.
+mar 30, 2025 9:28:10 PM LoggerUtil logInfo
+INFO: Index idx_swift_code already exists.
+mar 30, 2025 9:28:10 PM LoggerUtil logInfo
+INFO: Index idx_iso2_code already exists.
+mar 30, 2025 9:28:10 PM LoggerUtil logInfo
+INFO: Data successfully inserted into the database.
+mar 30, 2025 10:36:21 PM LoggerUtil logInfo
+INFO: Table 'swift_codes' already exists.
+mar 30, 2025 10:36:21 PM LoggerUtil logInfo
+INFO: Index idx_swift_code already exists.
+mar 30, 2025 10:36:21 PM LoggerUtil logInfo
+INFO: Index idx_iso2_code already exists.
+mar 30, 2025 10:36:22 PM LoggerUtil logInfo
+INFO: Data successfully inserted into the database.
